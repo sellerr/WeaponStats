@@ -1,0 +1,4 @@
+<meta>
+    <info name="skills" author="Sellerr" description="None" version="1.0" type="script"></info>
+    <script src="sk_s.lua" type="server"></script>
+</meta>
